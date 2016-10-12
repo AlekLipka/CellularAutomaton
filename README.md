@@ -8,4 +8,4 @@ automaton with a predefined size of neighborhood relative to specified cell.
 The application shall visualize the step-by-step simulation according to 
 initial configuration. 
 
-More information can be found at the following location: ./PI/DOC/Cellular Automaton - specification.docx
+More information can be found in the file: ./PI/DOC/Cellular Automaton - specification.docx
