@@ -7,3 +7,5 @@ The project aims to develop the application that will simulate a cellular
 automaton with a predefined size of neighborhood relative to specified cell. 
 The application shall visualize the step-by-step simulation according to 
 initial configuration. 
+
+More information can be found at the following location: ./PI/DOC/Cellular Automaton - specification.docx
