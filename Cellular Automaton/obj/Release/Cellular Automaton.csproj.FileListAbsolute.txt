@@ -1,0 +1,11 @@
+C:\Users\Aleksander\Documents\Visual Studio 2013\Projects\Cellular Automaton\Cellular Automaton\bin\Release\Cellular Automaton.exe.config
+C:\Users\Aleksander\Documents\Visual Studio 2013\Projects\Cellular Automaton\Cellular Automaton\bin\Release\Cellular Automaton.exe
+C:\Users\Aleksander\Documents\Visual Studio 2013\Projects\Cellular Automaton\Cellular Automaton\bin\Release\Cellular Automaton.pdb
+C:\Users\Aleksander\Documents\Visual Studio 2013\Projects\Cellular Automaton\Cellular Automaton\obj\Release\Cellular Automaton.csprojResolveAssemblyReference.cache
+C:\Users\Aleksander\Documents\Visual Studio 2013\Projects\Cellular Automaton\Cellular Automaton\obj\Release\Cellular_Automaton.ChangeMaxSizeWindow.resources
+C:\Users\Aleksander\Documents\Visual Studio 2013\Projects\Cellular Automaton\Cellular Automaton\obj\Release\Cellular_Automaton.GUI.resources
+C:\Users\Aleksander\Documents\Visual Studio 2013\Projects\Cellular Automaton\Cellular Automaton\obj\Release\Cellular_Automaton.Properties.Resources.resources
+C:\Users\Aleksander\Documents\Visual Studio 2013\Projects\Cellular Automaton\Cellular Automaton\obj\Release\Cellular_Automaton.RuleList.resources
+C:\Users\Aleksander\Documents\Visual Studio 2013\Projects\Cellular Automaton\Cellular Automaton\obj\Release\Cellular Automaton.csproj.GenerateResource.Cache
+C:\Users\Aleksander\Documents\Visual Studio 2013\Projects\Cellular Automaton\Cellular Automaton\obj\Release\Cellular Automaton.exe
+C:\Users\Aleksander\Documents\Visual Studio 2013\Projects\Cellular Automaton\Cellular Automaton\obj\Release\Cellular Automaton.pdb

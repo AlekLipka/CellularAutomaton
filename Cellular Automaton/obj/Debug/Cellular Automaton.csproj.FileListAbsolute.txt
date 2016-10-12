@@ -1,0 +1,21 @@
+C:\Users\Aleksander\Documents\Visual Studio 2013\Projects\Software Engineering 2\Cellular Automaton\Cellular Automaton\bin\Debug\Cellular Automaton.exe.config
+C:\Users\Aleksander\Documents\Visual Studio 2013\Projects\Software Engineering 2\Cellular Automaton\Cellular Automaton\bin\Debug\Cellular Automaton.exe
+C:\Users\Aleksander\Documents\Visual Studio 2013\Projects\Software Engineering 2\Cellular Automaton\Cellular Automaton\bin\Debug\Cellular Automaton.pdb
+C:\Users\Aleksander\Documents\Visual Studio 2013\Projects\Software Engineering 2\Cellular Automaton\Cellular Automaton\obj\Debug\Cellular Automaton.csprojResolveAssemblyReference.cache
+C:\Users\Aleksander\Documents\Visual Studio 2013\Projects\Software Engineering 2\Cellular Automaton\Cellular Automaton\obj\Debug\Cellular_Automaton.GridWindow.resources
+C:\Users\Aleksander\Documents\Visual Studio 2013\Projects\Software Engineering 2\Cellular Automaton\Cellular Automaton\obj\Debug\Cellular_Automaton.Properties.Resources.resources
+C:\Users\Aleksander\Documents\Visual Studio 2013\Projects\Software Engineering 2\Cellular Automaton\Cellular Automaton\obj\Debug\Cellular Automaton.csproj.GenerateResource.Cache
+C:\Users\Aleksander\Documents\Visual Studio 2013\Projects\Software Engineering 2\Cellular Automaton\Cellular Automaton\obj\Debug\Cellular Automaton.exe
+C:\Users\Aleksander\Documents\Visual Studio 2013\Projects\Software Engineering 2\Cellular Automaton\Cellular Automaton\obj\Debug\Cellular Automaton.pdb
+C:\Users\Aleksander\Documents\Visual Studio 2013\Projects\Software Engineering 2\Cellular Automaton\Cellular Automaton\obj\Debug\Cellular_Automaton.ActionPanel.resources
+C:\Users\Aleksander\Documents\Visual Studio 2013\Projects\Cellular Automaton\Cellular Automaton\bin\Debug\Cellular Automaton.exe.config
+C:\Users\Aleksander\Documents\Visual Studio 2013\Projects\Cellular Automaton\Cellular Automaton\obj\Debug\Cellular Automaton.exe
+C:\Users\Aleksander\Documents\Visual Studio 2013\Projects\Cellular Automaton\Cellular Automaton\obj\Debug\Cellular Automaton.pdb
+C:\Users\Aleksander\Documents\Visual Studio 2013\Projects\Cellular Automaton\Cellular Automaton\bin\Debug\Cellular Automaton.exe
+C:\Users\Aleksander\Documents\Visual Studio 2013\Projects\Cellular Automaton\Cellular Automaton\bin\Debug\Cellular Automaton.pdb
+C:\Users\Aleksander\Documents\Visual Studio 2013\Projects\Cellular Automaton\Cellular Automaton\obj\Debug\Cellular Automaton.csprojResolveAssemblyReference.cache
+C:\Users\Aleksander\Documents\Visual Studio 2013\Projects\Cellular Automaton\Cellular Automaton\obj\Debug\Cellular_Automaton.Properties.Resources.resources
+C:\Users\Aleksander\Documents\Visual Studio 2013\Projects\Cellular Automaton\Cellular Automaton\obj\Debug\Cellular Automaton.csproj.GenerateResource.Cache
+C:\Users\Aleksander\Documents\Visual Studio 2013\Projects\Cellular Automaton\Cellular Automaton\obj\Debug\Cellular_Automaton.GUI.resources
+C:\Users\Aleksander\Documents\Visual Studio 2013\Projects\Cellular Automaton\Cellular Automaton\obj\Debug\Cellular_Automaton.RuleList.resources
+C:\Users\Aleksander\Documents\Visual Studio 2013\Projects\Cellular Automaton\Cellular Automaton\obj\Debug\Cellular_Automaton.ChangeMaxSizeWindow.resources
